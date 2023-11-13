@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Meme</string>
+    <string-array name="Select">
+        <item>mph to kph</item>
+        <item>kph to mph</item>
+    </string-array>
+</resources>
